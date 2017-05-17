@@ -1,0 +1,2 @@
+# Blog
+Some essential Blog
